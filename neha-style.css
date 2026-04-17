@@ -20,7 +20,7 @@ body {
 .initial-start-screen {
     text-align: center;
     width: 100%;
-    max-width: 500px;
+    max-width: 100%;
     background: #ffffff;
     padding: 40px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
@@ -43,7 +43,7 @@ body {
 .center-start-btn:hover { background-color: #ff6600; }
 
 .quiz-box, .report-card, .analysis-card {
-    max-width: 600px; 
+    max-width: 100%; 
     width: 100%; 
     margin: 10px auto; 
     background: #ffffff; 
